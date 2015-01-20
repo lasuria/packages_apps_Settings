@@ -15,9 +15,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, AICP version name-->
-  <string name="mod_version">AICP version</string>
+  <string name="mod_version">Версия AICP</string>
   <!-- About phone screen, AICP unknown name-->
-  <string name="mod_version_default">Unknown</string>
+  <string name="mod_version_default">Неизвестно</string>
   <string name="model_name">Модель</string>
   <!-- About phone screen, build date of ROM -->
   <string name="build_date">Дата сборки</string>
@@ -35,7 +35,7 @@
   <!-- About device screen, Cpu info. -->
   <string name="cpu_info">CPU</string>
   <!-- About device screen, Chipset info -->
-  <string name="chipset_info">Chipset</string>
+  <string name="chipset_info">Процессор</string>
   <!-- About phone screen, Free memory info -->
   <string name="mem_info">Память</string>
   
@@ -50,8 +50,8 @@
   <string name="show_dev_already_aicp">Не надо, опции уже активированы.</string>
   
   <!-- Aicp Settings -->
-  <string name="aicp_settings_title">AICP Extras</string>
-  <string name="aicp_ota_settings_title">Aicp OTA</string>
+  <string name="aicp_settings_title">Дополнения AICP</string>
+  <string name="aicp_ota_settings_title">Обновление AICP</string>
   <string name="battery_settings_title">Настройки энергопотребления</string>
   <string name="status_bar_battery_title">Иконка батареи</string>
   
